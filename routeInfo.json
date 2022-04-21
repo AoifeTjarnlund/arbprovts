@@ -1,0 +1,31 @@
+{
+    "robot routes": [
+        {
+            "id": "01",
+            "startingPoint": "0, 0",
+            "direction": "s",
+            "route": "fflff",
+            "size": 100,
+            "obstacle": false
+        },
+
+        {
+            "id": "02",
+            "startingPoint": "1, 1",
+            "direction": "n",
+            "route": "fflff",
+            "size": 50,
+            "obstacle": false
+        },
+
+        {
+            "id": "03",
+            "startingPoint": "50, 50",
+            "direction": "n",
+            "route": "fflffrbb",
+            "size": 100,
+            "obstacle": true,
+            "obstacleCoords": "48, 50"
+        }
+    ]
+}
