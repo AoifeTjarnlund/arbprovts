@@ -1,5 +1,5 @@
 {
-    "robot routes": [
+    "testCase1": [
         {
             "id": "01",
             "startingPoint": "0, 0",
@@ -7,7 +7,9 @@
             "route": "fflff",
             "size": 100,
             "obstacle": false
-        },
+        }
+    ],
+    "testCase2":[
 
         {
             "id": "02",
@@ -16,8 +18,9 @@
             "route": "fflff",
             "size": 50,
             "obstacle": false
-        },
-
+        }
+    ],
+    "testCase3":[
         {
             "id": "03",
             "startingPoint": "50, 50",
