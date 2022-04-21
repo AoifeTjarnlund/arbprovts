@@ -2,7 +2,10 @@ class robot{
     x: number | undefined;
     y: number | undefined;
     dir: string | undefined;
-    commands:string = "fflff"
+    commands:string = "hehehe"
+
+    getAllRoutes()
+
 
 
     constructor(x:number, y:number, dir:string){

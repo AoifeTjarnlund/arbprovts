@@ -1,7 +1,6 @@
- import {default as arenaInfo} from './FileJSON/arenaInfo.json';
 
-//const json = roboRoutes['robot routes'];
-const json = arenaInfo.arena
+
+
  
  
 interface arenaInterface{

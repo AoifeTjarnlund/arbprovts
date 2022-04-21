@@ -1,5 +1,4 @@
 import {Request, Response, NextFunction} from 'express';
-import axios, {AxiosResponse} from 'axios';
 import { isInterfaceDeclaration } from 'typescript';
 import {default as routeInfo} from '../FileJSON/routeInfo.json';
 //import routeInfo from './routeInfo.json'
